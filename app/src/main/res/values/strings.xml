@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Sleep Timer</string>
+    <string name="timer">Timer</string>
+    <string name="cancel">Cancel</string>
+</resources>
